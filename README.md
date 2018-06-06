@@ -1,9 +1,7 @@
 # API Documentation Generator
 This is a framework of API Documentation Generator. \
-It be cloned from https://github.com/lord/slate/wiki \
-This is a sample document https://lord.github.io/slate/ \
+It be cloned from https://github.com/rc-bellergy/slate \
 Please read ./README-original.md for more information of the original project.
-You
 
 ## install
     bundle install
